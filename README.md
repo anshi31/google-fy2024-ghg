@@ -1,6 +1,5 @@
 # google-fy2024-ghg
-Emissions KPIs, YoY Trends, Top Contributors
-End‑to‑end FY2024 GHG emissions analysis using Power BI and SQL, delivering recruiter‑ready KPIs, ranked contributors, and trend visuals for 2019–2024 with clear documentation and quick links.
+Google Environmental Report analytics: a decision‑grade, KPI‑driven Power BI solution that quantifies Scope 1/2/3 emissions across 2019–2024, surfaces YoY deltas and top emitters via SQL ranking, and delivers recruiter‑ready, reproducible insights with clean documentation and quick links.
 
 Executive summary:
 
