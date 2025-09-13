@@ -10,7 +10,7 @@ Power BI file: [pbix/your-report.pbix](https://github.com/anshi31/google-fy2024-
 
 SQL scripts:[sql ](https://github.com/anshi31/google-fy2024-ghg/tree/main/sql )
 
-Images: images/
+Images: [images](https://github.com/anshi31/google-fy2024-ghg/tree/main/images)
 
 Overview
 
