@@ -2,7 +2,7 @@
 Emissions KPIs, YoY Trends, Top Contributors
 End‑to‑end FY2024 GHG emissions analysis using Power BI and SQL, delivering recruiter‑ready KPIs, ranked contributors, and trend visuals for 2019–2024 with clear documentation and quick links.
 
-Executive summary
+Executive summary:
 
 Business: Leadership needs a unified view of Scope 1/2 vs Scope 3 emissions, top contributors, and year‑over‑year changes from 2019–2024.
 
@@ -43,7 +43,7 @@ Open pbix/your-report.pbix in Power BI Desktop (latest) and click Refresh.
 Review KPI, dashboard, and trend pages; export images if needed.
 
 
-Quick links
+Quick links:
 
 Report (PDF): [report]( https://github.com/anshi31/google-fy2024-ghg/blob/main/docs/google-fy2024-ghg-emissions-analysis_report.pdf) 
 
